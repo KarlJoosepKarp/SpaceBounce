@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EX07TypeGame/EX07TypeGame.iml" filepath="$PROJECT_DIR$/EX07TypeGame/EX07TypeGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iti0202-2019-gui.iml" filepath="$PROJECT_DIR$/iti0202-2019-gui.iml" />
+    </modules>
+  </component>
+</project>
